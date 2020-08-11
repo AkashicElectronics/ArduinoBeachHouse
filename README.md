@@ -1,7 +1,7 @@
 # ArduinoBeachHouse
+This Git page contains the CODE for the Arduino BeachHouse project  
 
-Code used in ArduinoBeachHouse project  
-
+Click on "RAW" to see this file in a neat readable format! 
 
 PINOUT:
 
